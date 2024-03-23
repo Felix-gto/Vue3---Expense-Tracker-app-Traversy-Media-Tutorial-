@@ -1,17 +1,14 @@
-# vue-expense_tracker-Felix
+# Felix Daraban
 
-This template should help get you started developing with Vue 3 in Vite.
+#### Expense Tracker App - Based on Youtube Tutorial: Traversy Media: Vue 3 & Composition API - Full Project
 
-## Recommended IDE Setup
+---
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+Git Repository: <https://github.com/Felix-gto/felixdaraban>
 
-## Customize configuration
+---
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
+### Running the app - Project Setup
 ```sh
 npm install
 ```
